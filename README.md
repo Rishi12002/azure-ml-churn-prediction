@@ -77,15 +77,15 @@ Model name: telco_churn_model
 
 Deployment requires:
 
-score.py
+ -score.py
 
 Environment selection
 (But this step is optional for this project)
 
-- Model Performance (example)
-Metric	        Value
-Accuracy	0.813
-AUC	        0.85
-Precision	0.636
-Recall   	0.561
-F1 Score        0.596
+- Model Performance 
+Metric	    Value
+Accuracy	  0.813
+AUC	       0.85
+Precision	 0.636
+Recall   	 0.561
+F1 Score   0.596
